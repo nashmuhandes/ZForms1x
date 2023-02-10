@@ -1,3 +1,7 @@
+# ZForms1x
+
+ZForms1x is a fork of ZForms v1.0 that aims to extend its functionality and also fix any remaining issues, while still staying within the v1.0 framework, aimed for use with legacy projects.
+
 # ZForms
 
 ZForms is intended as an easy-to-use simple GUI framework for GZDoom's ZScript language for making menus easier for modders who want to create a simple menu without the development overhead of the built in menu system.
