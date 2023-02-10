@@ -1,0 +1,10 @@
+class ####Handler ui {
+	virtual void buttonClickCommand(####Button caller, string command) {
+	}
+	
+	virtual void buttonHeldCommand(####Button caller, string command) {
+	}
+
+	virtual void elementHoverChanged(####Element caller, string command, bool unhovered) {
+	}
+}
